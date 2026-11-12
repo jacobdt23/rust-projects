@@ -1,0 +1,8 @@
+[package]
+name = "rust-projects"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jacob Turner <turnerjac01@gmail.com>"]
+description = "Jacob's Rust learning, experiments, and CLI utilities"
+
+[dependencies]
