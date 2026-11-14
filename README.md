@@ -1,17 +1,9 @@
-# Rust Projects & Experiments
+# rust-projects
 
-A collection of Rust exercises, CLI tools, and learning projects.
+Rust practice and learning playground.
 
-## Getting Started
-
-Ensure you have Rust and Cargo installed:
+## Usage
 
 ```bash
-cargo build
 cargo run
 ```
-
-## Structure
-
-- `src/main.rs`: Entry point and basic CLI playground.
-- `Cargo.toml`: Package manifest and dependencies.
